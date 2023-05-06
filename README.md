@@ -40,3 +40,7 @@
 <a href="https://postman.com" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="postman" width="70" height="30"/> </a>
 
 </p>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polattmustafa&layout=compact&theme=vision-friendly-dark)](https://github.com/polattmustafa/github-readme-stats)

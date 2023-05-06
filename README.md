@@ -2,7 +2,7 @@
 <img align="right" src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="280" height="200"  />
 
 
-`- 👾  I’m currently working with Java Spring Boot and Python Django.**
+`- 👾  I’m currently working with **Java Spring Boot** and **Python Django.**
 
 - 📝  My medium page is [My Medium Page](https://medium.com/@mustfplt4)
 

@@ -4,8 +4,6 @@
 
 `- 👾  I’m currently working with **Java Spring Boot** and **Python Django.**
 
-- 📝  My medium page is [My Medium Page](https://medium.com/@mustfplt4)
-
 - 💬  Ask me about **Java Spring Boot**
 
 - 📫  How to reach me **mustfplt4@gmail.com**

@@ -2,11 +2,11 @@
 <img align="right" src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="280" height="200"  />
 
 
-`- 👾  I’m currently working with **Java Spring Boot** and **Python Django.**
+`- I’m currently working with **Java Spring Boot** and **Python Django.** 👾
 
-- 💬  Ask me about **Java Spring Boot**
+- Ask me about **Java Spring Boot** 💬
 
-- 📫  How to reach me **mustfplt4@gmail.com**
+- How to reach me **mustfplt4@gmail.com** 📫
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mustafa-polat-9652b019b/" target="blank" rel=”noopener”><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="70"  alt="multiplatform"/></a>

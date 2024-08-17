@@ -9,9 +9,9 @@
 - How to reach me **mustfplt4@gmail.com** 📫
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mustafa-polat-9652b019b/" target="blank" rel=”noopener”><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="70"  alt="multiplatform"/></a>
+<a href="https://www.linkedin.com/in/mustafa-polat-tr/" target="blank" rel=”noopener”><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="70"  alt="multiplatform"/></a>
 <a href="https://medium.com/@mustfplt4" target="blank" rel=”noopener”><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="multiplatform" height="30" width="70" /></a>
-<a href="https://instagram.com/mustfplt4/" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" height="30" width="30"  alt="multiplatform"/></a>
+<a href="https://instagram.com/mustf.plat/" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" height="30" width="30"  alt="multiplatform"/></a>
 </p>
 
 

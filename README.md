@@ -4,8 +4,6 @@
 
 `- I’m currently working with **Java Spring Boot** and **Python Django.** 👾
 
-- Ask me about **Java Spring Boot** 💬
-
 - How to reach me **mustfplt4@gmail.com** 📫
 
 <p align="left">

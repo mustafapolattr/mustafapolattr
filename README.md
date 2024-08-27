@@ -31,7 +31,6 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="70" height="30"/> </a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="70" height="30"/> </a>
 <a href="https://www.jetbrains.com/datagrip/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/DataGrip.svg" alt="datagrip" width="70" height="30"/> </a>
-<a href="https://discord.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/tr/c/c7/Discord_logo_new.svg" alt="discord" width="70" height="30"/> </a>
 <a href="https://slack.com/intl/en-tr/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg" alt="slack" width="70" height="30"/> </a>
 <a href="https://postman.com" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="postman" width="70" height="30"/> </a>
 

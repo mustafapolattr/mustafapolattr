@@ -38,4 +38,4 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polattmustafa&layout=compact&theme=vision-friendly-dark)](https://github.com/polattmustafa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafapolattr&layout=compact&theme=vision-friendly-dark)](https://github.com/mustafapolattr/github-readme-stats)

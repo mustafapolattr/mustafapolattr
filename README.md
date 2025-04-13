@@ -80,3 +80,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafapolattr&layout=compact&theme=vision-friendly-dark" />
 </p>
+
+### 🐍 GitHub Activity Graph
+
+![snake gif](https://github.com/mustafapolattr/mustafapolattr/blob/output/github-contribution-grid-snake.svg)

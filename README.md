@@ -9,7 +9,6 @@
 
 - 🔭 Currently developing backend services
 - 💡 Continuously improving my skills in **software architecture**, **frontend technologies**
-- 🐧 Enthusiastic Linux user — Ubuntu is my daily companion
 - 📬 Reach me at: **mustafa.polat.tr@outlook.com**
 - 🌐 My personal website: **https://mustafapolattr.com/**
 ---

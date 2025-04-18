@@ -1,5 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Mustafa Polat</h1>
-<h3 align="center">🛠️ Software Developmen Engineer
+<h1 align="center">I'm Mustafa Polat 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="300" height="200" />

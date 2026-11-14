@@ -9,7 +9,6 @@
 - 🔭 Currently developing backend services
 - 💡 Continuously improving my skills in **software architecture**, **frontend technologies**
 - 📬 Reach me at: **mustafa.polat.tr@outlook.com**
-- 🌐 My personal website: **https://mustafapolattr.com/**
 ---
 
 ### 🔗 Connect with me

@@ -23,9 +23,6 @@
   <a href="https://medium.com/@mustfplt4" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="30"/>
   </a>
-  <a href="https://instagram.com/mustf.plat/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
-  </a>
 </p>
 
 ---
